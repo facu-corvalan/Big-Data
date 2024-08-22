@@ -6,9 +6,7 @@
 
 <h2 align="center"><strong style="font-size: 1.2em;">📖 &nbsp;ÍNDICE</strong></h2> 
 
-1 - [Introduccion](#Introduccion)
-
-2 - [Hadoop](Hadoop/Introduccion.md)
+1 - [Hadoop](Hadoop\README.md)
 
 
 <h2 align="center"><strong style="font-size: 1.2em;">👓 &nbsp;Introduccion</strong></h2> 
